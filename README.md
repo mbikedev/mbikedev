@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mbikedev
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning JavaScript
+- 🌱 working with react js
 - 💞️ I’m looking to collaborate on a project
 - 📫 How to reach me mbagnickg@gmail.com
 
